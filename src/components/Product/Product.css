@@ -1,0 +1,7 @@
+.main-product{
+    display: flex;
+    text-align: left;
+}
+.main-product img{
+    margin-right: 10px;
+}

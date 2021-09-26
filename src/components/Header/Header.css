@@ -1,0 +1,14 @@
+nav{
+    background-color: black;
+    line-height: 40px;
+}
+.link{
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: large;
+    padding: 5px;
+    color: white;
+}
+.img img{
+    height: 80px;
+}
